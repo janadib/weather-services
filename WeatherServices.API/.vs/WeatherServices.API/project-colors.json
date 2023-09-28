@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68a4301d-75a0-4792-a8a3-9b7e23437be1": {
+      "ProjectGuid": "68a4301d-75a0-4792-a8a3-9b7e23437be1",
+      "DisplayName": "WeatherServices.API",
+      "ColorIndex": 0
+    },
+    "c9ba1dd0-f6a7-4249-ba93-2dbc1528b9f5": {
+      "ProjectGuid": "c9ba1dd0-f6a7-4249-ba93-2dbc1528b9f5",
+      "DisplayName": "WeatherServices.Service",
+      "ColorIndex": 1
+    },
+    "a7286156-5a50-4874-9464-79588bc5d87b": {
+      "ProjectGuid": "a7286156-5a50-4874-9464-79588bc5d87b",
+      "DisplayName": "WeatherServices.ApiHelper",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
