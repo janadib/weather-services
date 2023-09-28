@@ -1,0 +1,22 @@
+The .NET Core WebAPI is implemented using .NET 6 and the version of the Angular app is 15.0.
+
+Folders
+--------
+WeatherServices.API - .NET Core WebAPI (running on port https://localhost:7167/swagger/index.html)
+WeatherApp - Angular 15 app
+
+
+Steps.
+
+1. Navigate to the "WeatherServices.API" Folder and open the solution in Visual Studio and run the WeatherServices.API.sln solution.
+The API will be running on https://localhost:7167/swagger/index.html. Make Sure the api is running on port https://localhost:7167/.
+2.Next navigate to the "WeatherApp" folder and open a command prompt in that location.
+3. Run the command "npm install" as the node_modules package is deleted.
+4. Run the command "ng serve --open".
+5. The application will be running on port http://localhost:4200/.
+
+
+
+
+
+ 
